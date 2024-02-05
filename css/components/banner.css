@@ -1,0 +1,9 @@
+.banner {
+    color: rgb(66, 66, 66);
+    padding: 150px 0;
+    background-position: top;
+}
+
+.banner h1 {
+    margin: 0;
+}

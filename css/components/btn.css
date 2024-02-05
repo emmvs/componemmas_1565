@@ -1,0 +1,9 @@
+.btn-blue {
+    background-color: rgb(66, 66, 66);
+    color: aliceblue;
+    padding: 8px 24px;
+    border-radius: 4px;
+    text-decoration: none;
+    /* Sometimes if we add padding it won't respect the elements around it */
+    display: inline-block;
+}
