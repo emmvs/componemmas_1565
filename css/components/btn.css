@@ -1,9 +1,11 @@
 .btn-blue {
     background-color: rgb(66, 66, 66);
     color: aliceblue;
+     /* ☝🏻 y axis, 👉🏻 x axis */
     padding: 8px 24px;
     border-radius: 4px;
     text-decoration: none;
-    /* Sometimes if we add padding it won't respect the elements around it */
+    /* Sometimes if we add padding to an element it won't respect the elements around it */
+    /* inline-block makes it one of the gang */
     display: inline-block;
 }

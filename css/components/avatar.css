@@ -3,6 +3,8 @@
 }
 
 .avatar {
+    /* Using % for border-radius makes the rounded corners responsive to the element's width, while px sets a fixed, absolute radius size. */
+    /* width adjust automatically */
     height: 50px;
 }
 

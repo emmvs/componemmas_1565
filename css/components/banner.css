@@ -1,6 +1,8 @@
 .banner {
     color: rgb(66, 66, 66);
+     /* ☝🏻 y axis, 👉🏻 x axis */
     padding: 150px 0;
+    /* Change position of image */
     background-position: top;
 }
 
